@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "mappa_2s",
+  "info": {
+    "singularName": "mappa2",
+    "pluralName": "mappa-2s",
+    "displayName": "Mappa 2"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
